@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'M Naila 👋
 
-<!--
-**nailaj/nailaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## STUDENT
+---
+## EDUCATION
 
-Here are some ideas to get you started:
+## Grau Superior(DAW)
+I’m currently studing on ITB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning KOTLIN
+
+---
+
+### Institut La Guineueta
+**Degree:** Superior Technician in Network Computer Systems Administration  
+**Duration:**  2022 - 2024
+
+---
+
+### Institut JOSEP PLA
+**Degree:** Scientific Baccalaureate  
+**Duration:** Sept 2020 - Jun 2022
+
+---
+
+## EXPERIENCE
+
+### Hospital del Mar
+**Position:** IT Technician  
+**Duration:** April 2024 - July 2024 (3 months)  
+The "technical incident report" is a document that records the technical incidents or problems that arise in a system or service. It includes detailed information about the nature of the incident, its severity, and the actions taken to resolve it. This document is useful for analyzing problems and improving the management of technical services. 
